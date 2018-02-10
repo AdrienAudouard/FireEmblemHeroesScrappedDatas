@@ -37,7 +37,7 @@ Are available :
     * Staves ;
     * Bows ;
     * Daggers.
-* Assists ;
+* Assists 
 * Specials 
 * Passives :
     * Type A ;
