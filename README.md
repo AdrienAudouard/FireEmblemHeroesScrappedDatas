@@ -6,11 +6,11 @@ Scrapped data from [feheroes.gamepedia](https://feheroes.gamepedia.com) for all 
 
 Name of all heroes.
 
-Link: [heroes_name.json](https://github.com/RidazFluent/FireEmblemHeroesScrappedDatas/blob/master/heroes_name.json)
+Link: [fe_heroes_name.json](https://github.com/RidazFluent/FireEmblemHeroesScrappedDatas/blob/master/fe_heroes_name.json)
 
 ## Heroes datas
 
-For all available heroas :
+For all available heroes :
 * Stats :
     * Base stats ;
     * Max stats ;
@@ -21,4 +21,29 @@ For all available heroas :
     * Specials ;
     * Passives.
 
-Link: [heroes_data.json](https://github.com/RidazFluent/FireEmblemHeroesScrappedDatas/blob/master/heroes_data.json)
+Link: [fe_heroes_data.json](https://github.com/RidazFluent/FireEmblemHeroesScrappedDatas/blob/master/fe_heroes_data.json)
+
+## All skills 
+
+Are available :
+* Weapons :
+    * Swords ;
+    * Red tomes ;
+    * Lances ;
+    * Blue tomes ;
+    * Axes ;
+    * Green tomes ;
+    * Breaths ;
+    * Staves ;
+    * Bows ;
+    * Daggers.
+* Assists ;
+* Specials 
+* Passives :
+    * Type A ;
+    * Type B ;
+    * Type C ;
+    * Seal Exclusive Skills ;
+* Sacred Seals.
+
+Link: [fe_heroes_skills.json](https://github.com/RidazFluent/FireEmblemHeroesScrappedDatas/blob/master/fe_heroes_skills.json)
