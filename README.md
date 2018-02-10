@@ -36,7 +36,7 @@ Are available :
     * Breaths ;
     * Staves ;
     * Bows ;
-    * Daggers.
+    * Daggers ;
 * Assists 
 * Specials 
 * Passives :
