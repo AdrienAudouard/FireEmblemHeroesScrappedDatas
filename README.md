@@ -23,6 +23,11 @@ For all available heroes :
 
 Link: [fe_heroes_data.json](https://github.com/RidazFluent/FireEmblemHeroesScrappedDatas/blob/master/fe_heroes_data.json)
 
+## Builds 
+
+Link: [fe_heroes_builds.json](https://github.com/RidazFluent/FireEmblemHeroesScrappedDatas/blob/master/fe_heroes_builds.json)
+
+
 ## All skills 
 
 Are available :
